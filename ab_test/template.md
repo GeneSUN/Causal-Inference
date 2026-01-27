@@ -1,8 +1,4 @@
-# Price Elasticity
-> “We want to test price elasticity of demand. With different prices, how does demand change? How would you answer?”
-
-
-## Experiment Design & Causal Inference Template
+# Experiment Design & Causal Inference Template
 
 ### Step 1 — Define the Business goal, Causal Goal
 
